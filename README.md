@@ -196,9 +196,10 @@ export class RectangleComponent{
 ~~~
 
 ## OUTPUT:
-![output](img12.jpg)
+![output](img12.jpeg)
 
 ### Home Page:
 
 
 ## Result:
+Thus the program to create the angular calculation using Angular is completed successfully.
