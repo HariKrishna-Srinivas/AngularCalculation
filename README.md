@@ -198,7 +198,7 @@ export class RectangleComponent{
 ## OUTPUT:
 ![output](img12.jpeg)
 
-### Home Page:
+
 
 
 ## Result:
